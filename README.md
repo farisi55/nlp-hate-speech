@@ -81,7 +81,7 @@ Naive Bayes slightly outperformed SVM in this task.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/hate-speech-detection-nlp.git
+   git clone https://github.com/farisi55/nlp-hate-speech.git
    ```
 2. Install the required libraries:
    ```bash
